@@ -21,7 +21,8 @@ void do(){
 	printf("like");
 	//its great
 	//everything's good
-
+	//I'm happy
+	
 }
 
 int a;
