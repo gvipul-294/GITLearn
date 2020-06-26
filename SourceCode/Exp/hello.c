@@ -23,3 +23,4 @@ void do(){
 }
 
 int a;
+int dd;
