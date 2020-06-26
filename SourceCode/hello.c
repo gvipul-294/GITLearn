@@ -16,3 +16,8 @@ int main(){
 
 }
 
+void do(){
+
+	printf("like");
+	
+}
