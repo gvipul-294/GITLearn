@@ -21,3 +21,5 @@ void do(){
 	printf("like");
 	
 }
+
+int a;
