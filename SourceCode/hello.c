@@ -19,5 +19,6 @@ int main(){
 void do(){
 
 	printf("like");
+	//I'm happy
 	
 }
