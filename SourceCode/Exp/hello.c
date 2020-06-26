@@ -19,7 +19,9 @@ int main(){
 void do(){
 
 	printf("like");
-	
+	//its great
+	//everything's good
+
 }
 
 int a;
